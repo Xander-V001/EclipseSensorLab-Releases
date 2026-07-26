@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.11.2-alpha1",
+  "versionCode": 18,
+  "versionName": "0.12.0-alpha1",
   "apkUrl": "https://raw.githubusercontent.com/Xander-V001/EclipseSensorLab-Releases/main/Eclipse-Sensor-Lab.apk",
-  "sha256": "520ca5ae755f48f74613987ad1c93cb73bb7b74ec3bfa589d87c7ce76a3e5872",
-  "notes": "Кнопка проверки обновлений перенесена в главное меню Sensor Lab. Циферблат снова включён в общий комплект."
+  "sha256": "d916f83823ae506c9386ae086240e28e97ecaa22342ec1b479f89fc13e0341e1",
+  "notes": "Постоянная release-подпись, встроенная проверка обновлений и единый комплект с циферблатом."
 }
