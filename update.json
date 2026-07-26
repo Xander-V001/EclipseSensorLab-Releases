@@ -1,7 +1,7 @@
 {
-  "versionCode": 0,
-  "versionName": "bootstrap",
-  "apkUrl": "",
-  "sha256": "",
-  "notes": "Репозиторий обновлений готов"
+  "versionCode": 16,
+  "versionName": "0.11.1-alpha1",
+  "apkUrl": "https://raw.githubusercontent.com/Xander-V001/EclipseSensorLab-Releases/main/Eclipse-Sensor-Lab.apk",
+  "sha256": "37ed522115f48a13fe4f23a44560668e5fb4405a45ad708efb61273c875b66e7",
+  "notes": "Стабильная сборка Eclipse Sensor Lab с проверкой обновлений."
 }
