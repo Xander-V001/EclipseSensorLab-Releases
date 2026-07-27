@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.14.0-alpha1",
+  "versionCode": 23,
+  "versionName": "0.15.0-alpha1",
   "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Sensor-Lab.apk",
-  "sha256": "7215c742020468d5cbc3ea6c16cb0e4946baa696d80c960566e5f8a406388cb8",
-  "notes": "Обновление Eclipse Sensor Lab. Загрузка через CDN."
+  "sha256": "9f302cfecfb7578f081b57855dd23a2a12369dd6b98b3287de6ed9f96340d936",
+  "notes": "Обновление Eclipse Sensor Lab."
 }
