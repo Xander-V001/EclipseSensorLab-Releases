@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "0.6.1-alpha1",
+  "versionCode": 13,
+  "versionName": "0.7.0-alpha1",
   "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Mobile.apk",
-  "sha256": "d0944fe294a01cf9b52b8f9dadbbc7ffb6dbe7fd23be20d562c19e8d6c1bf585",
+  "sha256": "997ce4f24ebc963f14ce2eab42fff353e51962bcd396d6fdf6dbedbf1e032307",
   "notes": "Исправлен обзор ЭКГ: вся запись помещается на экран, стартовый выброс больше не сплющивает сигнал, улучшен масштаб в приложении и PDF."
 }
