@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.6.0-alpha2",
+  "versionCode": 11,
+  "versionName": "0.6.0-alpha3",
   "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Mobile.apk",
-  "sha256": "c9ef8c5e349826565ec562d5ea641edec9e3659a700e7d05c38ae403c14c99d9",
-  "notes": "Реальный график ЭКГ, подробные параметры записи, техническая оценка ЧСС и RR, экспорт отчёта ЭКГ в PDF."
+  "sha256": "fb2bf1dc31388bbbaf4abfe7a12a4ab0960ae092affef42167f2707c2cee7575",
+  "notes": "Реальный график ЭКГ, техническая оценка ЧСС и RR, экспорт PDF и исправленная проверка обновлений без устаревшего кэша."
 }
