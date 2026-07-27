@@ -2,6 +2,6 @@
   "versionCode": 20,
   "versionName": "0.12.2-alpha1",
   "apkUrl": "https://raw.githubusercontent.com/Xander-V001/EclipseSensorLab-Releases/main/Eclipse-Sensor-Lab.apk",
-  "sha256": "75a3902589b9db1267be00d07628405375e725e7dd44e97dda9f9f0119456894",
+  "sha256": "975b55ac8b2cc1c4133aa55dde10fdb057bd1733f3c6991804dda13766b1cb93",
   "notes": "Тестовая проверка обновления Sensor Lab поверх установленной release-версии."
 }
