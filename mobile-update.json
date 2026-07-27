@@ -1,0 +1,7 @@
+{
+  "versionCode": 8,
+  "versionName": "0.5.0-alpha2",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Mobile.apk",
+  "sha256": "cb19162ffc4dcf353304d9cb7ce47ee3839a2dd73c822b852dd74172edd68cfc",
+  "notes": "Обновление Eclipse Mobile: компактный запуск измерений и собственный механизм обновления."
+}
