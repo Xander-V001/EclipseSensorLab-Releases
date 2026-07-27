@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.13.0-alpha1",
+  "versionCode": 22,
+  "versionName": "0.14.0-alpha1",
   "apkUrl": "https://raw.githubusercontent.com/Xander-V001/EclipseSensorLab-Releases/main/Eclipse-Sensor-Lab.apk",
-  "sha256": "d1060454fa57ba46dd8c5da5462228536603129e19639f728d8ab23cb44cc991",
+  "sha256": "7215c742020468d5cbc3ea6c16cb0e4946baa696d80c960566e5f8a406388cb8",
   "notes": "Обновление Eclipse Sensor Lab."
 }
