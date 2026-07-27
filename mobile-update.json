@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.7.1-alpha1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Mobile-0.7.1-alpha1.apk",
-  "sha256": "80dd2ed5dcb7583e2d5099f1e5837db1014a868536a6a6451575c0f9c6d071c7",
-  "notes": "Новая иконка Eclipse, исправленная публикация обновлений с уникальным APK каждой версии и подробный технический отчёт ЭКГ."
+  "versionCode": 15,
+  "versionName": "0.7.2-alpha1",
+  "apkUrl": "https://github.com/Xander-V001/EclipseSensorLab-Releases/releases/download/mobile-v0.7.2-alpha1/Eclipse-Mobile-0.7.2-alpha1.apk",
+  "sha256": "18d64ca36d31ec14b3d2fab97a45855b295c7fb70f2ce9435bb4cb362c5d52fc",
+  "notes": "Улучшен анализ ЭКГ и расчёт QRS/ЧСС. Тестовая версия для проверки на реальной записи Galaxy Watch."
 }
