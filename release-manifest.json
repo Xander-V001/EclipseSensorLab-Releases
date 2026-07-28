@@ -1,0 +1,22 @@
+{
+  "sourceSha": "cd552d685844aeca8e456fe071dc21f545da2983",
+  "branch": "feature/eclipse-health-complications",
+  "certificateSha256": "724cd15df78de89a3952fe5fa90698217ed21381d402d80cbfcd25b2684d6830",
+  "artifacts": {
+    "watchFace": {
+      "versionCode": 44,
+      "versionName": "2.6.1-health-alpha1",
+      "sha256": "0a3766d83f46cc0e284ba6fd4ae3a04018d47ada27a489b1ad3cb01ae2aabe9e"
+    },
+    "sensorLab": {
+      "versionCode": 27,
+      "versionName": "0.16.3-alpha1",
+      "sha256": "6cf6118c2d75b72c94abe339039d20ca66b480ad6bb3cc7b38143167e86df5fe"
+    },
+    "mobile": {
+      "versionCode": 20,
+      "versionName": "0.7.7-alpha1",
+      "sha256": "46becae1cf393d2bb9e0ef70d9b6ced3c2db89abf91d0950ec7f0c7510d39cb2"
+    }
+  }
+}
