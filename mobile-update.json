@@ -2,6 +2,6 @@
   "versionCode": 15,
   "versionName": "0.7.2-alpha1",
   "apkUrl": "https://github.com/Xander-V001/EclipseSensorLab-Releases/releases/download/mobile-v0.7.2-alpha1/Eclipse-Mobile-0.7.2-alpha1.apk",
-  "sha256": "3808329ca2ff40eac4ee8b1b025b68fa1d50d1d2c2dd9fa4ccdaf2d72d535511",
+  "sha256": "d3fc4a8ad7c798b504b38cb6f68431ba7887dc50749ccaed85175ec6b9d56cf6",
   "notes": "Улучшен анализ ЭКГ и расчёт QRS/ЧСС. Тестовая версия для проверки на реальной записи Galaxy Watch."
 }
