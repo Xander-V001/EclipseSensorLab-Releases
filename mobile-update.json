@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.7.5-alpha1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Mobile-0.7.5-alpha1.apk",
-  "sha256": "8336ec5a5fe5d5837004550617df06b3b222a523bc3ed99b63ff180cabb92905",
+  "versionCode": 19,
+  "versionName": "0.7.6-alpha1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Mobile-0.7.6-alpha1.apk",
+  "sha256": "9328f87d96fb601b6ad0a75938cc26d371fa7a8a4578607a260ceac22f59f51f",
   "notes": "Новая иконка Eclipse, исправленная публикация обновлений с уникальным APK каждой версии и подробный технический отчёт ЭКГ."
 }
