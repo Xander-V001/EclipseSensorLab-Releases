@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.16.1-alpha1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Sensor-Lab.apk",
-  "sha256": "c5ce000c5fe3336b009ba2989c5043df337dc5ff082786d9a030d4b117579f8f",
-  "notes": "Новый сырой съём ЭКГ ECG2 и надёжная передача на Eclipse Mobile."
+  "versionCode": 26,
+  "versionName": "0.16.2-alpha1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Sensor-Lab-0.16.2-alpha1.apk",
+  "sha256": "091f40ffbc7a86fe809ead1aa46b60de6343291c2fa930f981be35f0caa273a4",
+  "notes": "Исправлен пакетный разбор ЭКГ Samsung и надёжность встроенного обновления."
 }
