@@ -1,22 +1,22 @@
 {
-  "sourceSha": "cd552d685844aeca8e456fe071dc21f545da2983",
+  "sourceSha": "12554d253fd4a60650fe0354e5b3e1e63d742e4c",
   "branch": "feature/eclipse-health-complications",
   "certificateSha256": "724cd15df78de89a3952fe5fa90698217ed21381d402d80cbfcd25b2684d6830",
   "artifacts": {
     "watchFace": {
-      "versionCode": 44,
-      "versionName": "2.6.1-health-alpha1",
-      "sha256": "0a3766d83f46cc0e284ba6fd4ae3a04018d47ada27a489b1ad3cb01ae2aabe9e"
+      "versionCode": 45,
+      "versionName": "2.6.2-health-alpha1",
+      "sha256": "a3a1e028a2d039d8c6db0281dbadd476947e1592b7089f66d29d7d3fed41e2c1"
     },
     "sensorLab": {
-      "versionCode": 27,
-      "versionName": "0.16.3-alpha1",
-      "sha256": "6cf6118c2d75b72c94abe339039d20ca66b480ad6bb3cc7b38143167e86df5fe"
+      "versionCode": 28,
+      "versionName": "0.16.4-alpha1",
+      "sha256": "c87abc5e3e5bb536e9f83fc163f64c1b24f84f4ec88a04d247a4261009a37188"
     },
     "mobile": {
-      "versionCode": 20,
-      "versionName": "0.7.7-alpha1",
-      "sha256": "46becae1cf393d2bb9e0ef70d9b6ced3c2db89abf91d0950ec7f0c7510d39cb2"
+      "versionCode": 21,
+      "versionName": "0.7.8-alpha1",
+      "sha256": "e34a862f8beb8c0d7fefa30ebb27c55d6350910767c43bf9a096b99d4dc1022d"
     }
   }
 }

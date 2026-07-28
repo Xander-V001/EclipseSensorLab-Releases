@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.16.3-alpha1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Sensor-Lab-0.16.3-alpha1.apk",
-  "sha256": "6cf6118c2d75b72c94abe339039d20ca66b480ad6bb3cc7b38143167e86df5fe",
-  "notes": "Стабильная сборка через собственный VPS: измерения, удалённый запуск и ECG2."
+  "versionCode": 28,
+  "versionName": "0.16.4-alpha1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Sensor-Lab-0.16.4-alpha1.apk",
+  "sha256": "c87abc5e3e5bb536e9f83fc163f64c1b24f84f4ec88a04d247a4261009a37188",
+  "notes": "Защищённый выпуск с полной проверкой исходников, APK и сертификатов."
 }
