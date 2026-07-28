@@ -1,7 +1,7 @@
 {
   "versionCode": 26,
   "versionName": "0.16.2-alpha1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Sensor-Lab-0.16.2-alpha1.apk",
+  "apkUrl": "https://raw.githubusercontent.com/Xander-V001/EclipseSensorLab-Releases/main/Eclipse-Sensor-Lab-0.16.2-alpha1.apk",
   "sha256": "091f40ffbc7a86fe809ead1aa46b60de6343291c2fa930f981be35f0caa273a4",
   "notes": "Исправлен пакетный разбор ЭКГ Samsung и надёжность встроенного обновления."
 }
