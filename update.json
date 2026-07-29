@@ -2,6 +2,6 @@
   "versionCode": 33,
   "versionName": "0.16.9-alpha1",
   "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Sensor-Lab-0.16.9-alpha1.apk",
-  "sha256": "a9637bdb814df5126a94b4a5be4a2dccffc56201219dbab97979f4d34ab80622",
+  "sha256": "63c5cd72294d40527d8eea6a1f31c892e4004e2f8c1ddb3e7fd9663171096182",
   "notes": "Защищённый выпуск: исходники, APK, сертификаты и полный PhysioNet benchmark проверены."
 }
