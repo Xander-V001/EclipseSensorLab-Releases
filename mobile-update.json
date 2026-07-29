@@ -2,6 +2,6 @@
   "versionCode": 22,
   "versionName": "0.7.9-alpha1",
   "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Mobile-0.7.9-alpha1.apk",
-  "sha256": "92dbf9ff055254e31642eed618df994693f95f1b20c5e6b8dfc5f4a8661329fe",
+  "sha256": "4df08291c6c93470a968711ad829cde97ef4ac0c2879a88365533b58eded048b",
   "notes": "Защищённый выпуск: исходники, APK, сертификаты и полный PhysioNet benchmark проверены."
 }
