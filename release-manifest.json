@@ -1,22 +1,23 @@
 {
-  "sourceSha": "12554d253fd4a60650fe0354e5b3e1e63d742e4c",
+  "sourceSha": "e67d80afaaf62a6e327647f88dd33fdf9ea1dc38",
   "branch": "feature/eclipse-health-complications",
   "certificateSha256": "724cd15df78de89a3952fe5fa90698217ed21381d402d80cbfcd25b2684d6830",
+  "physioNetDataset": "persistent verified VPS cache mitbih-full-v1",
   "artifacts": {
     "watchFace": {
       "versionCode": 45,
       "versionName": "2.6.2-health-alpha1",
-      "sha256": "a3a1e028a2d039d8c6db0281dbadd476947e1592b7089f66d29d7d3fed41e2c1"
+      "sha256": "3fb790078a47f6de2b297d849772ba60718f756c6261dcc682a4bf4883ffa6ee"
     },
     "sensorLab": {
-      "versionCode": 28,
-      "versionName": "0.16.4-alpha1",
-      "sha256": "c87abc5e3e5bb536e9f83fc163f64c1b24f84f4ec88a04d247a4261009a37188"
+      "versionCode": 29,
+      "versionName": "0.16.5-alpha1",
+      "sha256": "5b2d37d022aa87891b937fc6bc8e0bb5d0dd67f767b7e1bf207427c0fce7c7fe"
     },
     "mobile": {
-      "versionCode": 21,
-      "versionName": "0.7.8-alpha1",
-      "sha256": "e34a862f8beb8c0d7fefa30ebb27c55d6350910767c43bf9a096b99d4dc1022d"
+      "versionCode": 22,
+      "versionName": "0.7.9-alpha1",
+      "sha256": "d408487c22f1880aa46ab828937e0ac11d54ef2c6064586c2cb77de5dfa4df41"
     }
   }
 }
