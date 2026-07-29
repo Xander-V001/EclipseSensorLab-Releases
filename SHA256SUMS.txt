@@ -1,6 +1,6 @@
-dfcd87f03c38f9dbf6437accd0b4e11903c20de95114fab07fa92dbb10e6a4bd  publish/Eclipse-3D-Watch-Face-2.6.2-health-alpha1.apk
-dfcd87f03c38f9dbf6437accd0b4e11903c20de95114fab07fa92dbb10e6a4bd  publish/Eclipse-3D-Watch-Face.apk
-4df08291c6c93470a968711ad829cde97ef4ac0c2879a88365533b58eded048b  publish/Eclipse-Mobile-0.7.9-alpha1.apk
-4df08291c6c93470a968711ad829cde97ef4ac0c2879a88365533b58eded048b  publish/Eclipse-Mobile.apk
-d485bad23a80fca77f8cfdfc992b4082873979738e0dcf4f41324f7618b7b42d  publish/Eclipse-Sensor-Lab-0.16.9-alpha1.apk
-d485bad23a80fca77f8cfdfc992b4082873979738e0dcf4f41324f7618b7b42d  publish/Eclipse-Sensor-Lab.apk
+6c2b716da079a95f0534675441069f2d129c493034e33eafac531a196d9385fb  publish/Eclipse-3D-Watch-Face-2.6.2-health-alpha1.apk
+6c2b716da079a95f0534675441069f2d129c493034e33eafac531a196d9385fb  publish/Eclipse-3D-Watch-Face.apk
+9c381016ac6953db094c5347b5109763469860f5ac2f37d5276bc3faf2b28a7f  publish/Eclipse-Mobile-0.7.10-alpha1.apk
+9c381016ac6953db094c5347b5109763469860f5ac2f37d5276bc3faf2b28a7f  publish/Eclipse-Mobile.apk
+a9637bdb814df5126a94b4a5be4a2dccffc56201219dbab97979f4d34ab80622  publish/Eclipse-Sensor-Lab-0.16.9-alpha1.apk
+a9637bdb814df5126a94b4a5be4a2dccffc56201219dbab97979f4d34ab80622  publish/Eclipse-Sensor-Lab.apk
