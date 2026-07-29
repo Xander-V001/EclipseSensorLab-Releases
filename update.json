@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "0.16.7-alpha1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Sensor-Lab-0.16.7-alpha1.apk",
-  "sha256": "fdb4983076ab787dfb259be8f00059ea40caaa3679943e604f35641cd6ab0f2b",
+  "versionCode": 32,
+  "versionName": "0.16.8-alpha1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Sensor-Lab-0.16.8-alpha1.apk",
+  "sha256": "6047257f8000b2569e099227115175fb8b971ac02a52ac643930d86b52ebbab2",
   "notes": "Защищённый выпуск: исходники, APK, сертификаты и полный PhysioNet benchmark проверены."
 }
