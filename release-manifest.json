@@ -1,23 +1,24 @@
 {
-  "sourceSha": "dbf3ef8672a300c91ae5c522b78b3d5d6d875383",
-  "branch": "feature/eclipse-health-complications",
+  "sourceSha": "8a2d7422d068370fd8f8bbd29614ad57432c9c44",
+  "branch": "feature/eclipse-mobile-kotlin-compose",
+  "mode": "publish-verified",
+  "verifiedFullRunId": "30653494007",
   "certificateSha256": "724cd15df78de89a3952fe5fa90698217ed21381d402d80cbfcd25b2684d6830",
-  "physioNetDataset": "persistent verified VPS cache mitbih-full-v1",
   "artifacts": {
     "watchFace": {
-      "versionCode": 45,
-      "versionName": "2.6.2-health-alpha1",
-      "sha256": "6aa05e12ae773db5785eceb16b0b9d02fca8fc812bd48634d925d657139e199a"
+      "versionCode": 46,
+      "versionName": "2.6.3-health-alpha1",
+      "sha256": "50f5274e73969d701cba5cf2e24b293956794b44fcfb471d04f364d00692635c"
     },
     "sensorLab": {
-      "versionCode": 33,
-      "versionName": "0.16.9-alpha1",
-      "sha256": "63c5cd72294d40527d8eea6a1f31c892e4004e2f8c1ddb3e7fd9663171096182"
+      "versionCode": 34,
+      "versionName": "0.16.10-alpha1",
+      "sha256": "67e1c1dbd5af4be4c0d487a01b2946825f97cc950b08fe398b89f26ed5e437d0"
     },
     "mobile": {
-      "versionCode": 24,
-      "versionName": "0.7.11-alpha1",
-      "sha256": "42d202defbc836940789ced95835af701c7b3de77a1597f37d8aeea31407a34e"
+      "versionCode": 27,
+      "versionName": "0.9.1-alpha1",
+      "sha256": "25d4b1ae235276f455d2720c2abaef456b0345d61b9ba4e6a9f5766a129987bc"
     }
   }
 }
