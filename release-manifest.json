@@ -1,24 +1,24 @@
 {
-  "sourceSha": "cd679b53758bb6fca954b9263bd449a3027cfeec",
+  "sourceSha": "5ef63562790db12917c668b4487307787e2435f0",
   "branch": "feature/eclipse-mobile-kotlin-compose",
   "mode": "publish",
   "verifiedFullRunId": null,
   "certificateSha256": "724cd15df78de89a3952fe5fa90698217ed21381d402d80cbfcd25b2684d6830",
   "artifacts": {
     "watchFace": {
-      "versionCode": 55,
-      "versionName": "2.6.12-health-alpha1",
-      "sha256": "f1cdc018087a8115c519f1308b99197617c145c457621c901d3db01cbf9df75b"
+      "versionCode": 56,
+      "versionName": "2.6.13-health-alpha1",
+      "sha256": "074c1cf9d85791a1de6ef9d7734a4ea74385801cd8ee6067b86a9497bd8db81e"
     },
     "sensorLab": {
-      "versionCode": 109,
-      "versionName": "0.17.10-alpha1",
-      "sha256": "c7cb8d7768ac00ce520092638beafbf75f7cfbadaae07360c07237111975d669"
+      "versionCode": 110,
+      "versionName": "0.17.11-alpha1",
+      "sha256": "c6d63cd9f0a7be9e7f9fec175d12cafafac537ba500a6387fb2fe307002e7371"
     },
     "mobile": {
-      "versionCode": 37,
-      "versionName": "0.9.11-alpha1",
-      "sha256": "2242f47ccb84a70dd916d64922dc0a7a7e2b37de218359ffdc102c0a5e923209"
+      "versionCode": 38,
+      "versionName": "0.9.12-alpha1",
+      "sha256": "2d5b5711ab33e9044a21aa5ed854486d524373c3b82ae1f016ca829269d6347c"
     }
   }
 }

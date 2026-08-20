@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "0.9.11-alpha1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Mobile-0.9.11-alpha1.apk",
-  "sha256": "2242f47ccb84a70dd916d64922dc0a7a7e2b37de218359ffdc102c0a5e923209",
+  "versionCode": 38,
+  "versionName": "0.9.12-alpha1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/Xander-V001/EclipseSensorLab-Releases@main/Eclipse-Mobile-0.9.12-alpha1.apk",
+  "sha256": "2d5b5711ab33e9044a21aa5ed854486d524373c3b82ae1f016ca829269d6347c",
   "notes": "Защищённый выпуск: Kotlin/Compose, подписи и полный PhysioNet benchmark проверены."
 }
